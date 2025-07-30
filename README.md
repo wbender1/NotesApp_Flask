@@ -15,12 +15,11 @@ A lightweight note-taking web app with persistent storage using JSON.
 - **Timestamps**: Tracks creation/modification times
 
 ## 🛠️ Project Structure
-flask-notes-app/
-├── flask_app.py          # Main Flask application
-├── notes.json           # JSON database (auto-created)
-├── templates/           # HTML templates
-│   ├── edit.html        # Edit note page
-│   └── notes.html       # Main page with all notes
+- `flask_app.py` - Main Flask application  
+- `notes.json` - JSON database (auto-created)  
+- `templates/` - HTML templates  
+  - `edit.html` - Edit note page  
+  - `notes.html` - Main page with all notes  
 
 ## 🚀 Quick Start
 # 1. Install Flask
