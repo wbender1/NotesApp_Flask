@@ -6,8 +6,6 @@
 
 A lightweight note-taking web app with persistent storage using JSON.
 
-![Screenshot Preview](https://via.placeholder.com/800x400?text=Flask+Notes+App+Screenshot) *(Replace with actual screenshot)*
-
 ## ✨ Features
 - **CRUD Operations**: Create, Read, Update, Delete notes
 - **Persistent Storage**: Auto-saves to `notes.json`
