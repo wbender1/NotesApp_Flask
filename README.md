@@ -20,13 +20,13 @@ A lightweight note-taking web app with persistent storage using JSON.
   - `notes.html` - Main page with all notes  
 
 ## 🚀 Quick Start
-# 1. Install Flask
+### 1. Install Flask
 pip install flask
 
-# 2. Run the app
+### 2. Run the app
 python flask_app.py
 
-# 3. Access in browser at:
+### 3. Access in browser at:
 http://localhost:5000
 
 ## 🛠️ Usage Guide
